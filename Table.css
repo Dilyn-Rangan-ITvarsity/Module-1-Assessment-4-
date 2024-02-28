@@ -1,0 +1,9 @@
+th{background-color:#2793A8;}
+
+table{border-collapse: collapse;}
+
+h1{font-size:30px;font-family: sans-serif;color:white;}
+
+body{background-image: url(Picture/Movies.png);background-repeat: no-repeat;background-position: centre;background-attachment: fixed;background-size: cover;}
+tr{background-color: white; font-size:25px;}
+table tr:hover{background-color: cornflowerblue;}
